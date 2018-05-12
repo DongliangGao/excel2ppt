@@ -1,0 +1,3 @@
+excel_address=E:\template.xlsx
+template_ppt_address=E:\template.pptx
+output_ppt_address=E:\test.pptx
